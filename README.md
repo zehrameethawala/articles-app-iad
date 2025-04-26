@@ -14,8 +14,7 @@ A full-stack blog application built with the MERN stack (MongoDB, Express.js, Re
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/username/repo-name.git
-cd repo-name
+git clone https://github.com/zehrameethawala/articles-app-iad.git
 ```
 
 2. Install dependencies:
@@ -25,7 +24,7 @@ cd server
 npm install
 
 # Install client dependencies
-cd 
+cd blog-starter-bscs-633-main
 npm install
 ```
 
